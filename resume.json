@@ -1,8 +1,11 @@
 
 {
+  "meta": {
+    "theme": "microdata"
+  },
   "basics": {
     "name": "Kyle Oliver",
-    "image": "https://avatars0.githubusercontent.com/u/43910687?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "image": "https://media.licdn.com/dms/image/v2/D5603AQHu4-MCnidi8Q/profile-displayphoto-scale_200_200/B56ZoENP.CI8AY-/0/1761007174038?e=1762387200&v=beta&t=AujCINGBP1eWlcftO6kRChcyMzlGq9jGOyguLrnUpNs",
     "label": "Software Developer",
     "summary": "Software Developer with 6 years of Professional experience including data pipelines, game dev, medical robotics, cloud services, and more. Recently have been focusing on improving dev workflows and application development through a mixture of Python and Rust.",
     "website": "https://github.com/56kyle",
