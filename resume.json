@@ -1,0 +1,123 @@
+
+{
+  "basics": {
+    "name": "Kyle Oliver",
+    "image": "",
+    "label": "Software Developer",
+    "summary": "Software Developer with 6 years of Professional experience including data pipelines, game dev, medical robotics, cloud services, and more. Recently have been focusing on improving dev workflows and application development through a mixture of Python and Rust.",
+    "website": "https://github.com/56kyle",
+    "email": "56kyleoliver@gmail.com",
+    "location": {
+      "city": "Cincinnati",
+      "countryCode": "USA"
+    },
+    "profiles": [
+      {
+        "url": "https://www.linkedin.com/in/kyle-oliver-uc/",
+        "username": "kyle-oliver-uc",
+        "network": "LinkedIn"
+      }
+    ]
+  },
+  "education": [
+    {
+      "startDate": "2018-08-12",
+      "area": "Chemistry",
+      "studyType": "Bachelors",
+      "institution": "The University of Cincinnati"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python/Etc  Packaging / App Dev",
+      "keywords": ["Data Pipelines", "CLI Tools", "Backends", "Robotics (ROS)"]
+    },
+    {
+      "name": "Dev Tool / Workflow Development",
+      "keywords": ["Robust Template Design", "CICD Design", "Package Design"]
+    },
+    {
+      "name": "An Unhealthy Amount of Pytest",
+      "keywords": ["Usage with Docker", "Pytest Plugin Creation"]
+    },
+    {
+      "name": "Containerization",
+      "keywords": ["Docker Image design", "Familiar with multistage builds/etc"]
+    }
+  ],
+  "work": [
+    {
+      "summary": "Developed data-centric Python architectures, while also pushing forward better development standards and processes.",
+      "website": "https://kinetic-vision.com/",
+      "pinned": true,
+      "name": "Kinetic Vision",
+      "position": "Software Developer II",
+      "startDate": "2023-01-03",
+      "endDate": "2025-10-16",
+      "highlights": [
+        "Worked on data collection and transportation for medical robotics testing.",
+        "Wrote a computer vision package for informing liquid area coverage on a 3D geometry.",
+        "Created an ML pipeline for checking for errors in a 3D voxel.",
+        "Created project templates and helped develop better inhouse Python standards.",
+        "Created an ML pipeline for measuring void coefficient from cat scans in a defined geometry.",
+        "Created a Python package for interfacing with GCP, along with automating GCP setup through Terraform."
+      ]
+    },
+    {
+      "summary": "Added new features and fixed existing bugs using test driven development in a Python, Pyramid, and SQLAlchemy stack. Additionally, created a schema caching system that was responsible for cutting load times down to a fraction of their original times.",
+      "website": "https://www.slashdb.com/",
+      "pinned": true,
+      "name": "SlashDB",
+      "position": "Full Stack Developer - SlashDB",
+      "startDate": "2021-05-05",
+      "endDate": "2022-02-05",
+      "highlights": [
+        "Worked as a full stack developer on a Python Pyramid application.",
+        "Improved test coverage, and refactored existing code.",
+        "Fixed issues and debugged various SQL interfaces and edge cases.",
+        "Added to the angular front end and designed new interfaces."
+      ]
+    },
+    {
+      "summary": "Worked as one of the core developers for Custom Hero Clash, a Dota 2 custom game that has around 1.2 million players. I was responsible mostly for the backend Lua code relating to core gameplay mechanics.",
+      "website": "https://github.com/arcadia-redux",
+      "name": "Arcadia Redux (Dota 2 Unofficial)",
+      "location": "Australia",
+      "position": "Dota 2 Custom Game Developer - Arcadia Redux (Dota 2 Unofficial)",
+      "startDate": "2020-07-05",
+      "endDate": "2021-05-05",
+      "highlights": [
+        "Ensured consistent and stable changes for a large community of 1.2 Million players",
+        "Surveyed consumers and translated feedback into product changes",
+        "Adapted to a custom interface for Lua on the go."
+      ]
+    },
+    {
+      "summary": "Automated a large portion of the accounting through Quickbooks as to the specifications set by the accounting department. Additionally estimated and communicated needed time for desired features.",
+      "website": "https://brandsinsurance.com/",
+      "name": "Brands Insurance",
+      "location": "West Chester, OH",
+      "position": "Rails Developer - Brands Insurance",
+      "startDate": "2019-10-05",
+      "endDate": "2020-03-05",
+      "highlights": [
+        "Created a Ruby Gem for integrating into an existing Rails application.",
+        "Created an interface for automating entry of an existing database into Quickbooks."
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "EMG / Neural Interface research and development"
+    },
+    {
+      "name": "Creating makeshift tools and equipment"
+    },
+    {
+      "name": "Automating video games"
+    },
+    {
+      "name": "Open source development"
+    }
+  ]
+}
