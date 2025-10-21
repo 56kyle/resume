@@ -1,5 +1,8 @@
 
 {
+  "meta": {
+    "theme": "professional"
+  },
   "basics": {
     "name": "Kyle Oliver",
     "image": "https://avatars0.githubusercontent.com/u/43910687?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
