@@ -9,6 +9,14 @@
   dependencies:
     jsonschema "^1.4.1"
 
+jsonresume-theme-professional@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/jsonresume-theme-professional/-/jsonresume-theme-professional-1.1.0.tgz#5c2b6243998b3fb7bc40a453451e52c45b2332fd"
+  integrity sha512-kaiOnKYpW0+Y4zEr+hVVuwkhd9r1tt2+DQTrNAuze8OZfV73ePl6/Eugt/4KIm7wjbcKTzvGY4XqiWUq4e5YIw==
+  dependencies:
+    prismjs "^1.29.0"
+    react-icons "^5.0.1"
+
 jsonschema@^1.4.1:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/jsonschema/-/jsonschema-1.5.0.tgz#f6aceb1ab9123563dd901d05f81f9d4883d3b7d8"
@@ -18,6 +26,16 @@ mri@^1.1.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/mri/-/mri-1.2.0.tgz#6721480fec2a11a4889861115a48b6cbe7cc8f0b"
   integrity sha512-tzzskb3bG8LvYGFF/mDTpq3jpI6Q9wc3LEmBaghu+DdCssd1FakN7Bc0hVNmEyGq1bq3RgfkCb3cmQLpNPOroA==
+
+prismjs@^1.29.0:
+  version "1.30.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.30.0.tgz#d9709969d9d4e16403f6f348c63553b19f0975a9"
+  integrity sha512-DEvV2ZF2r2/63V+tK8hQvrR2ZGn10srHbXviTlcv7Kpzw8jWiNTqbVgjO3IY8RxrrOUF8VPMQQFysYYYv0YZxw==
+
+react-icons@^5.0.1:
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-5.5.0.tgz#8aa25d3543ff84231685d3331164c00299cdfaf2"
+  integrity sha512-MEFcXdkP3dLo8uumGI5xN3lDFNsRtrjbOEKDLD7yv76v4wpnEq2Lt2qeHaQOr34I/wPN3s3+N08WkQ+CW37Xiw==
 
 resumed@^6.1.0:
   version "6.1.0"
