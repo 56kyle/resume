@@ -50,6 +50,19 @@
   ],
   "work": [
     {
+      "summary": "Developed prompt injections and various other red team utilities targeting ChatGPT Atlas.",
+      "pinned": true,
+      "name": "Joint Research for Demo",
+      "position": "AI Red Team / Pentester",
+      "startDate": "2025-11-06",
+      "endDate": "2025-01-25",
+      "highlights": [
+        "Created prompt injections based around gamification and tangentially touching on the blocked target topic.",
+        "Wrote an external automation library to enable scaled testing of newly developed prompts.",
+        "Presented a demo and discussed our findings with a higher up in OpenAI's Red Team department."
+      ]
+    },
+    {
       "summary": "Developed data-centric Python architectures, while also pushing forward better development standards and processes.",
       "website": "https://kinetic-vision.com/",
       "pinned": true,
