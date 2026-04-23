@@ -59,8 +59,8 @@
       "highlights": [
         "Tasked with getting a disallowed output from ChatGPT Atlas to prove an attack vector's neccesity of research.",
         "Created prompt injections based around gamification and tangentially running into the blocked target's topic.",
-        "Wrote an external automation library to enable scaled testing of prompts and collection of stats.",
-        "Presented a demo and findings to a higher up in OpenAI's Red Team department."
+        "Wrote an external automation library to enable scaled testing of newly developed prompts and the collection of stats.",
+        "Presented a demo and discussed our findings with a higher up in OpenAI's Red Team department."
       ]
     },
     {
