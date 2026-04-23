@@ -55,7 +55,7 @@
         "name": "Joint Research for Demo",
       "position": "AI Red Team / Pentester",
       "startDate": "2025-11-06",
-      "endDate": "2025-01-25",
+      "endDate": "2026-01-25",
       "highlights": [
         "Tasked with getting a disallowed output from ChatGPT Atlas to prove an attack vector's neccesity of research.",
         "Created prompt injections based around gamification and tangentially running into the blocked target's topic.",
