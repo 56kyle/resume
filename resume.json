@@ -123,6 +123,34 @@
       ]
     }
   ],
+  "projects": [
+    {
+      "name": "cookiecutter-robust-python",
+      "description": "An open-source Cookiecutter template for Python projects emphasizing best practices and long-term adaptability. Provides out-of-the-box CI/CD for GitHub, GitLab, and Bitbucket; cross-platform testing across all supported Python versions; and a modern toolchain (uv, nox, ruff, basedpyright, commitizen) designed to evolve as the ecosystem changes. Supports optional Rust integration via maturin and uses cruft for seamless template updates.",
+      "highlights": [
+        "Designed for adaptability — major tooling transitions (e.g. pure Python to maturin/Rust) can be made without breaking CI/CD or docs",
+        "Full CI/CD coverage for GitHub, GitLab, and Bitbucket with automated integration-testing via live demo repositories",
+        "Toolchain includes uv, nox, ruff, basedpyright, commitizen, and pip-audit for a security-aware, modern development workflow"
+      ],
+      "keywords": ["Python", "Cookiecutter", "CI/CD", "uv", "nox", "ruff", "maturin", "Rust", "DevOps"],
+      "url": "https://github.com/robust-python/cookiecutter-robust-python",
+      "roles": ["Creator", "Maintainer"],
+      "type": "application"
+    },
+    {
+      "name": "pytest-static",
+      "description": "A published PyPI pytest plugin that automates parametric test generation from Python type annotations. Allows developers to annotate test parameters with types (including generics like tuple[bool, bool]) and have pytest automatically expand them into exhaustive or representative test cases, reducing boilerplate for statically-typed codebases.",
+      "highlights": [
+        "Published on PyPI with 12 releases; installable via pip install pytest-static",
+        "Leverages Python's type system to auto-generate test parameter sets, including edge-case coverage for unbounded types like int and str",
+        "Extensible via type_handlers.register decorator, allowing custom type resolution strategies"
+      ],
+      "keywords": ["Python", "pytest", "pytest-plugin", "type annotations", "testing", "PyPI"],
+      "url": "https://github.com/56kyle/pytest-static",
+      "roles": ["Creator", "Maintainer"],
+      "type": "application"
+    }
+  ],
   "interests": [
     {
       "name": "EMG / Neural Interface research and development"
