@@ -129,7 +129,7 @@
       "description": "An open-source Cookiecutter template for Python projects emphasizing best practices and long-term adaptability. Provides out-of-the-box CI/CD for GitHub, GitLab, and Bitbucket; cross-platform testing across all supported Python versions; and a modern toolchain (uv, nox, ruff, basedpyright, commitizen) designed to evolve as the ecosystem changes. Supports optional Rust integration via maturin and uses cruft for seamless template updates.",
       "highlights": [
         "Designed for adaptability — major tooling transitions (e.g. pure Python to maturin/Rust) can be made without breaking CI/CD or docs",
-        "Full CI/CD coverage for GitHub, GitLab, and Bitbucket with automated integration-testing via live demo repositories",
+        "Full CI/CD coverage for GitHub, GitLab, and Bitbucket with automated integration-testing via live demo repositories showing each version",
         "Toolchain includes uv, nox, ruff, basedpyright, commitizen, and pip-audit for a security-aware, modern development workflow"
       ],
       "keywords": ["Python", "Cookiecutter", "CI/CD", "uv", "nox", "ruff", "maturin", "Rust", "DevOps"],
