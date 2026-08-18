@@ -50,9 +50,21 @@
   ],
   "work": [
     {
+      "summary": "Developed exploits and demonstrated policy violating behaviors through various modalities.",
+      "pinned": true,
+      "name": "OpenAI (Contracted through Handshake)",
+      "position": "Red Team Specialist",
+      "startDate": "2026-07-08",
+      "highlights": [
+        "Created tailored prompts targeting requested vulnerability modalities.",
+        "Automated persona generation for use in vulnerability assessments.",
+        "Analyzed existing vulnerabilities and created variations to search for particular points of failure."
+      ]
+    },
+    {
       "summary": "Developed prompt injections and various other red team utilities targeting ChatGPT Atlas.",
       "pinned": true,
-        "name": "Joint Research for Demo",
+      "name": "Joint Research for Demo",
       "position": "AI Red Team / Pentester",
       "startDate": "2025-11-06",
       "endDate": "2026-01-25",
